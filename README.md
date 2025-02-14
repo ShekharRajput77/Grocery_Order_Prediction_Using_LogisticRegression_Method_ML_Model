@@ -2,6 +2,7 @@ This project implements a Logistic Regression model using scikit-learn to predic
 The final model is used to predict and update the status column for a prediction dataset.
 
 **Features**
+
 Handles missing values in both numerical and categorical data.
 Encodes categorical variables using Label Encoding.
 Splits data into training and testing sets.
